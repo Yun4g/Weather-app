@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Pictures/weather asset"
+		},
+		{
+			"path": "../../javascript practice"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "weather app"
+	}
+}
